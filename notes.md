@@ -9,3 +9,7 @@
 
 ## Avoid Kinks in Interpoliation
 * Keep angel the same or ratio the same othwise it will not work. [Tool to identify](https://www.youtube.com/watch?app=desktop&v=wp5bvS2xi8c)
+
+
+## Skeleton-Strokes
+* [lttrink](https://www.lttrink.com/)
