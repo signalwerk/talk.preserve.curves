@@ -1,7 +1,7 @@
 # Wie werden Kurven konserviert
 Wie werden Schriftzeichen heute digital festgehalten – eine Kritik
 
-## Rahmen
+## Kontext
 * Veranstaltung «Tag der Schrift»
 * Ort: Zürich
 * Datum: 6. April 2024 
