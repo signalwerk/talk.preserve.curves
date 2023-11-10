@@ -1,5 +1,5 @@
-# «Wie werden Kurven konserviert»
-«Wie werden Schriftzeichen heute digital festgehalten – eine Kritik»
+# Wie werden Kurven konserviert
+Wie werden Schriftzeichen heute digital festgehalten – eine Kritik
 
 ## Rahmen
 * Veranstaltung «Tag der Schrift»
