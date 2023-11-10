@@ -5,7 +5,7 @@
 * Veranstaltung «Tag der Schrift»
 * Ort: Zürich
 * Datum: 6. April 2024 
-* Dauer: 30 – 45 min (je nach Wunsch)
+* Dauer: 45 min
 
 ## Motivation
 Font-Designer·innen erstellen Schriften und akzepiteren mehrheitlich eine unintuitive Interaktion mit Software/Technologie. Der Talk soll zeigen, welche Versuche in der Technologiegeschichte unternommen wurden um Schriftzeichen digital zu zeichnen und wo wir jetzt stehen.  
