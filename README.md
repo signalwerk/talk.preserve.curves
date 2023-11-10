@@ -4,14 +4,14 @@
 ## Rahmen
 * Veranstaltung «Tag der Schrift»
 * Ort: Zürich
-* Datum: 31. März oder 1. April 2023 
+* Datum: 6. April 2024 
 * Dauer: 30 – 45 min (je nach Wunsch)
 
 ## Motivation
 Font-Designer·innen erstellen Schriften und akzepiteren mehrheitlich eine unintuitive Interaktion mit Software/Technologie. Der Talk soll zeigen, welche Versuche in der Technologiegeschichte unternommen wurden um Schriftzeichen digital zu zeichnen und wo wir jetzt stehen.  
 
 ## Zielpublikum
-Personen, die sich für Font-Design interessieren, sich aber noch nie über «Alternativen» zu Bézierkurven Gedanken gemacht haben. Der Vortrag erklärt technisch, was wir heute machen und weshalb die Gestaltung sich im Moment unterordnet. Das Userinterface für eine Kurve ist kaputt.
+Personen, die sich für Font-Design interessieren, sich aber selten über «Alternativen» zu Bézierkurven Gedanken gemacht haben. Der Vortrag erklärt technisch, was wir heute machen und weshalb die Gestaltung sich im Moment unterordnet. Das Userinterface für eine Kurve ist kaputt.
 
 ## Inhalt
 * Wie wir schreiben und Kurven zeichnen
@@ -21,7 +21,7 @@ Personen, die sich für Font-Design interessieren, sich aber noch nie über «Al
 * Welche Parameter sollten wir in einem Schriftsystem definieren müssen
 
 ## Sprecher
-Stefan Huber lebt und arbeitet als Entwickler und Gestalter in Zürich. Macht die Konzeption und Realisation für blinkende Dinge im Web und ist Dozent an der [Schule für Gestaltung Zürich](http://sfgz.ch/).
+Stefan Huber lebt und arbeitet als Entwickler und Gestalter in Zürich. Macht die Konzeption und Realisation für blinkende Dinge im Web.
 
 ## Technische Anforderung
 * Projektor (Beamer) mit mindestens XGA-Auflösung (1024 × 768px) und [HDMI Type A Anschluss](https://en.wikipedia.org/wiki/HDMI#/media/File:HDMI_Connector_Types.png). Als Zuspielgerät dient ein MacBook Pro (14-Zoll, 2021)
