@@ -1,5 +1,5 @@
 # Wie werden Kurven konserviert
-Digitales Festhalten von Schrift­ zeichen heute – eine Kritik
+Digitales Festhalten von Schriftzeichen heute – eine Kritik
 
 ## Kontext
 * Veranstaltung «Tag der Schrift»
