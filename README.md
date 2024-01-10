@@ -21,7 +21,7 @@ Personen, die sich für Font-Design interessieren, sich aber selten über «Alte
 * Welche Parameter sollten wir in einem Schriftsystem definieren müssen
 
 ## Sprecher
-Stefan Huber lebt und arbeitet als Entwickler und Gestalter in Zürich. Nach seiner Ausbildung im grafischen Bereich und weiterführenden Ausbildungen in typografischer Gestaltung und Schriftgestaltung hat er ein Werksemester im Bleisatz in Leipzig absolviert. Sein Hauptinteresse liegt heute in der digitalen Typografie und er hat sich auf das Konzipieren und Realisieren von blinkenden Dingen im Web spezialisiert.
+Stefan Huber lebt und arbeitet als Entwickler und Gestalter in Zürich. Nach einer Ausbildung im grafischen Bereich und Weiterbildungen in typografischer Gestaltung und Schriftgestaltung hat er ein Werksemester im Bleisatz in Leipzig absolviert. Sein Hauptinteresse liegt heute in der digitalen Typografie und dem Konzipieren und Realisieren von blinkenden Dingen im Web.
 
 ## Technische Anforderung
 * Projektor (Beamer) mit mindestens XGA-Auflösung (1024 × 768px) und [HDMI Type A Anschluss](https://en.wikipedia.org/wiki/HDMI#/media/File:HDMI_Connector_Types.png). Als Zuspielgerät dient ein MacBook Pro (14-Zoll, 2021)
